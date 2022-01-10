@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1608917595 source:d:\uni\3rd term\oop\assignments\assignment 2\20196041\main.cpp
+	<iostream>
+	"User.h"
+	"Book.h"
+	"Userlist.h"
+	"BookList.h"
+
+1606559946 d:\uni\3rd term\oop\assignments\assignment 2\20196041\include\user.h
+	<cstring>
+	<iostream>
+
+1609915647 d:\uni\3rd term\oop\assignments\assignment 2\20196041\include\book.h
+	<cstring>
+	<iostream>
+	"User.h"
+
+1608932337 d:\uni\3rd term\oop\assignments\assignment 2\20196041\include\userlist.h
+	<iostream>
+	"User.h"
+
+1608932336 d:\uni\3rd term\oop\assignments\assignment 2\20196041\include\booklist.h
+	"Book.h"
+	"UserList.h"
+
+1608859644 source:d:\uni\3rd term\oop\assignments\assignment 2\20196041\src\book.cpp
+	"Book.h"
+
+1606559362 source:d:\uni\3rd term\oop\assignments\assignment 2\20196041\src\user.cpp
+	"User.h"
+
+1609919307 source:d:\uni\3rd term\oop\assignments\assignment 2\20196041\src\userlist.cpp
+	"UserList.h"
+
+1609920030 source:d:\uni\3rd term\oop\assignments\assignment 2\20196041\src\booklist.cpp
+	"BookList.h"
+	"UserList.h"
+
+1609920056 source:d:\uni\3rd term\done\oop\assignments\assignment 2\20196041\main.cpp
+	<iostream>
+	"User.h"
+	"Book.h"
+	"Userlist.h"
+	"BookList.h"
+
+1606559946 d:\uni\3rd term\done\oop\assignments\assignment 2\20196041\include\user.h
+	<cstring>
+	<iostream>
+
+1609915647 d:\uni\3rd term\done\oop\assignments\assignment 2\20196041\include\book.h
+	<cstring>
+	<iostream>
+	"User.h"
+
+1608932337 d:\uni\3rd term\done\oop\assignments\assignment 2\20196041\include\userlist.h
+	<iostream>
+	"User.h"
+
+1608932336 d:\uni\3rd term\done\oop\assignments\assignment 2\20196041\include\booklist.h
+	"Book.h"
+	"UserList.h"
+
+1608859644 source:d:\uni\3rd term\done\oop\assignments\assignment 2\20196041\src\book.cpp
+	"Book.h"
+
+1609920030 source:d:\uni\3rd term\done\oop\assignments\assignment 2\20196041\src\booklist.cpp
+	"BookList.h"
+	"UserList.h"
+
+1606559362 source:d:\uni\3rd term\done\oop\assignments\assignment 2\20196041\src\user.cpp
+	"User.h"
+
+1609919307 source:d:\uni\3rd term\done\oop\assignments\assignment 2\20196041\src\userlist.cpp
+	"UserList.h"
+
